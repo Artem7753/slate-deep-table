@@ -1,9 +1,9 @@
 {
-  "name": "slate-deep-table",
+  "name": "slate-uui-table-plugin",
   "description": "A Slate plugin to handle tables containing complex content.",
-  "version": "0.9.7",
+  "version": "1.0.0",
   "license": "Apache-2.0",
-  "repository": "git://github.com/jasonphillips/slate-deep-table.git",
+  "repository": "git://github.com/Artem7753/slate-deep-table.git",
   "main": "./dist/index.js",
   "dependencies": {
     "slate-html-serializer": "^0.8.0"
@@ -20,6 +20,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.24.1",
     "babelify": "^7.3.0",
     "browserify": "^16.3.0",
     "eslint": "^4.18.2",
