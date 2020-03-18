@@ -1,7 +1,7 @@
 {
   "name": "slate-uui-table-plugin",
   "description": "A Slate plugin to handle tables containing complex content.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "Apache-2.0",
   "repository": "git://github.com/Artem7753/slate-uui-table-plugin.git",
   "main": "./dist/index.js",
