@@ -1,16 +1,16 @@
-# slate-deep-table
+# slate-uui-table-plugin
 
-[![npm version](https://badge.fury.io/js/slate-deep-table.svg)](https://badge.fury.io/js/slate-deep-table)
-[![Linux Build Status](https://travis-ci.org/jasonphillips/slate-deep-table.png?branch=master)](https://travis-ci.org/jasonphillips/slate-deep-table)
+[![npm version](https://badge.fury.io/js/slate-uui-table-plugin.svg)](https://badge.fury.io/js/slate-uui-table-plugin)
+[![Linux Build Status](https://travis-ci.org/jasonphillips/slate-uui-table-plugin.png?branch=master)](https://travis-ci.org/jasonphillips/slate-uui-table-plugin)
 
 A Slate plugin to handle tables with nested block content. Forked from the excellent [slate-edit-table](https://github.com/GitbookIO/slate-edit-table) implementation, but retooled to work with deep content.
 
-Demo: https://jasonphillips.github.io/slate-deep-table/
+Demo: https://jasonphillips.github.io/slate-uui-table-plugin/
 
 ### Install
 
 ```
-npm install slate-deep-table
+npm install slate-uui-table-plugin
 ```
 
 ### Features
@@ -28,7 +28,7 @@ Slate is a fast-moving library, so check the CHANGELOG for information on the cu
 ### Simple Usage
 
 ```js
-import DeepTable from 'slate-deep-table'
+import DeepTable from 'slate-uui-table-plugin'
 
 const plugins = [
   DeepTable({ /* options object here; see below */ })
@@ -46,7 +46,7 @@ const plugins = [
 
 ### Queries and Commands
 
-`slate-deep-table` exports queries and commands that you can invoke on your `editor` instance:
+`slate-uui-table-plugin` exports queries and commands that you can invoke on your `editor` instance:
 
 ```js
 // anywhere where 'editor' is passed as an argument, or using the react Component's ref, 

@@ -22,7 +22,7 @@ const html = new Html({
     rules: DeepTable.makeSerializerRules({}),
 })
 
-describe('slate-deep-table', function() {
+describe('slate-uui-table-plugin', function() {
     const tests = fs.readdirSync(__dirname);
     const plugin = DeepTable();
 

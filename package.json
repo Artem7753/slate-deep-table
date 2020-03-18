@@ -3,7 +3,7 @@
   "description": "A Slate plugin to handle tables containing complex content.",
   "version": "1.0.0",
   "license": "Apache-2.0",
-  "repository": "git://github.com/Artem7753/slate-deep-table.git",
+  "repository": "git://github.com/Artem7753/slate-uui-table-plugin.git",
   "main": "./dist/index.js",
   "dependencies": {
     "slate-html-serializer": "^0.8.0"

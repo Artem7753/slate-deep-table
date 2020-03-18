@@ -7,7 +7,7 @@ const value = (
   <value>
     <document>
       <h2>Slate with Deep Tables</h2>
-      <p>The page demonstrates the slate-deep-table plugin.</p>
+      <p>The page demonstrates the slate-uui-table-plugin plugin.</p>
 
       <h3>Basic Tables</h3>
       <p>Simple tables can still contain block-level content. This page is intentionally not using other plugins, but you could easily embed lists, images, or any other block-level content in cells.</p>

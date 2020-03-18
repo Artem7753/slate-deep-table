@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [0.9.5] - 2019-7-8
 
-  - now exports a function to obtain default serializer rules; see comment https://github.com/jasonphillips/slate-deep-table/issues/18#issuecomment-509439219
+  - now exports a function to obtain default serializer rules; see comment https://github.com/jasonphillips/slate-uui-table-plugin/issues/18#issuecomment-509439219
 
 ## [0.9.1] - 2019-7-8
 
